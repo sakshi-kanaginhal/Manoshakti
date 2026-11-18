@@ -1,0 +1,11 @@
+{
+  "name": "ManoShakti – Empowering Youth Mental Strength",
+  "description": "AI-powered youth mental wellness platform to understand emotions, explore emotional patterns, manage academic stress, practice mindfulness, and develop mental resilience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
